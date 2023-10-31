@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/manu__garcia_/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:manugarciaa02@gmail.com"
+  <a href="mailto:manugarciaa02@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
