@@ -11,5 +11,4 @@
   <a href="mailto:manugarciaa02@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
 <br><br><br><br>
