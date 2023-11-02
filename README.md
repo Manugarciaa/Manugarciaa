@@ -1,8 +1,10 @@
 ## Hi, I'm Manu
 
 I am a computer science student with a strong interest in cybersecurity and a strong desire to expand my knowledge in various domains. I am always open to learning new concepts and willing to acquire knowledge in various areas. My goal is to become an expert in the topics I engage with and ultimately create something that leaves a mark on the world.
-<img src="https://i.redd.it/xs74tbvu4dk51.gif" alt="BMO" width="300" />
 
+<div align="left">
+  <img src="https://i.redd.it/xs74tbvu4dk51.gif" alt="BMO" width="300" />
+</div>
 
 #### Languages
 
