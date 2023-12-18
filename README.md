@@ -1,6 +1,6 @@
 # ¡Hola, soy Manu!
 
-Soy estudiante de informática con un fuerte interés en ciberseguridad y un deseo ferviente de expandir mis conocimientos en varios campos. Siempre estoy abierto a aprender nuevos conceptos y dispuesto a adquirir conocimiento en diversas áreas. Mi objetivo es convertirme en un experto en los temas con los que me involucro y, en última instancia, crear algo que deje una huella en el mundo.
+Estudiante de Ingeniería Informática con un sólido interés en ciberseguridad y una fuerte voluntad de ampliar mis conocimientos en diversos campos. Siempre estoy ávido de aprender nuevos conceptos y dispuesto a adquirir conocimiento en diversas áreas. Mi objetivo es convertirme en un experto en los temas con los que me involucro y, en última instancia, crear algo significativo que deje una huella en el mundo.
 
 <div align="center">
   <img src="https://i.redd.it/xs74tbvu4dk51.gif" alt="BMO" width="300" />
