@@ -1,12 +1,12 @@
 # Manuel Antonio García
 
-## Sobre mí
+Computer Engineer · Web development, data and IT infrastructure
 
-Estudiante de Ingeniería Informática con experiencia práctica en desarrollo web, análisis de datos y soporte IT. He trabajado en proyectos que van desde plataformas web con **Next.js** y **PostgreSQL** hasta la automatización de procesos académicos y la optimización de infraestructura IT.
+## About me
 
-Actualmente finalizando mi carrera en Ingeniería Informática, cursando **Administración de Sistemas** y explorando oportunidades en DevOps y administración de redes.
+Computer Engineer, recently graduated. I've worked on real projects across web development, data analysis and IT support: I built a legal case-management platform with Next.js and PostgreSQL, automated student enrolment that used to live in Excel spreadsheets, and set up a company's IT infrastructure. Right now I'm going deep into DevOps and network administration.
 
-## Escuchando ahora en Spotify
+## Currently playing on Spotify
 
 <p align="center">
   <a href="https://open.spotify.com/user/22lzusxdmtezjxjki4wpncyzq">
@@ -14,41 +14,35 @@ Actualmente finalizando mi carrera en Ingeniería Informática, cursando **Admin
   </a>
 </p>
 
-## Stack Tecnológico
+## Stack
 
-- **Lenguajes:** JavaScript, TypeScript, Python, Java, C#  
-- **Frameworks:** Next.js, React, Node.js  
-- **Bases de Datos:** PostgreSQL, MySQL  
-- **Herramientas:** Git, GitHub, Figma, Excel  
-- **DevOps:** Vercel, CI/CD, Docker (básico)  
-- **Testing:** QA Manual, pruebas funcionales
+- **Languages:** JavaScript, TypeScript, Python, Java, C#
+- **Frameworks:** Next.js, React, Node.js
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Figma, Excel
+- **DevOps:** Vercel, CI/CD, Docker (basic)
+- **Testing:** Manual QA and functional testing
 
-## Experiencia Profesional
+## Experience
 
-**La Mascotera S.A.S.** | *Soporte Técnico IT (Pasantía)*
+**Colegio de Abogados del Sur** — Full Stack Developer (intern)
+Built a legal case-management web platform with Next.js and PostgreSQL: secure authentication, user dashboards and deployment on Vercel.
 
-Armado, mantenimiento y upgrade de equipos informáticos. Migración del sistema de licenciamiento Flexxus a Dux Software, reduciendo el gasto en licencias en un 60%. Montaje de red LAN con switches TP-Link y auditoría de hardware/software.
+**La Mascotera S.A.S.** — IT Support Technician (intern)
+Assembled, maintained and upgraded computer equipment. Migrated the licensing system from Flexxus to Dux Software, cutting licence costs by 60%. Set up the LAN with TP-Link switches and ran hardware/software audits.
 
-**Colegio de Abogados del Sur** | *Desarrollador Full Stack (Pasantía)*
+**Learning Point English Institute** — Data Analyst
+Analysed and visualised academic data for management decisions. Replaced Excel spreadsheets with an automated enrolment system and built the key indicators for administrative reports.
 
-Desarrollo de plataforma web de gestión jurídica utilizando Next.js y PostgreSQL. Implementación de autenticación segura, paneles de usuario y despliegue en Vercel con enfoque en escalabilidad.
+## Education
 
-**Learning Point English Institute** | *Analista de Datos*
+**Universidad del Norte Santo Tomás de Aquino (UNSTA)**
 
-Análisis y visualización de datos académicos para la toma de decisiones. Automatización del sistema de inscripciones reemplazando planillas Excel y diseño de indicadores clave para reportes administrativos.
+- Computer Engineering (2021–2025)
+- University Technician in Computing (February 2025)
 
+**Certifications:** DevOps Culture · Manual QA Testing · Introduction to Python
 
-## Formación
-
-- **Universidad del Norte Santo Tomás de Aquino (UNSTA)**  
-  - Ingeniería Informática (2021-2025)  
-  - Técnico Universitario en Informática - Completado (Feb 2025)
-
-**Certificaciones:** DevOps Culture, Manual QA Testing, Introduction to Python
-
-
-## Intereses Actuales
-
-Explorando oportunidades en DevOps y administración de redes, profundizando en cultura DevOps y automatización mientras finalizo mi carrera en Ingeniería Informática.
+---
 
 *Aurea Mediocritas* ☀
